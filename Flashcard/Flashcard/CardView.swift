@@ -48,9 +48,9 @@ struct CardView: View {
                 .opacity(1 - abs(offset.width) / swipeThreshold) // <-- Fade out front-most background as user swipes
             
             // Card background
-            RoundedRectangle(cornerRadius: 25.0)
-                .fill(Color.blue.gradient)
-                .shadow(color: .black, radius: 4, x: -2, y: 2)
+//            RoundedRectangle(cornerRadius: 25.0)
+//                .fill(Color.blue.gradient)
+//                .shadow(color: .black, radius: 4, x: -2, y: 2)
 
             VStack(spacing: 20) {
 
