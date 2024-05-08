@@ -12,13 +12,12 @@ The following **required** functionality is completed:
 
 ## 🎯 Goals
 
-
-Creating a new SwiftUI project in Xcode
-Anatomy of a SwiftUI app
-Creating a basic user interface
-Model data
-Reacting to user input
-Using gestures and animations
+- [X] Creating a new SwiftUI project in Xcode
+- [X] Anatomy of a SwiftUI app
+- [X] Creating a basic user interface
+- [X] Model data
+- [X] Reacting to user input
+- [X] Using gestures and animations
 
 
 **VIDEO WALKTHROUGH**
