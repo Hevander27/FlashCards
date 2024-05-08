@@ -10,6 +10,16 @@ The following **required** functionality is completed:
 - [X] Reset the deck with all the cards or only cards they've categorized as needing more practice
 - [X] Create new flashcards and add them to the deck
 
+## 🎯 Goals
+
+
+Creating a new SwiftUI project in Xcode
+Anatomy of a SwiftUI app
+Creating a basic user interface
+Model data
+Reacting to user input
+Using gestures and animations
+
 **VIDEO WALKTHROUGH**
 
 ![Lab 4 Flash Cards - Imgur](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/423848ce-1ae3-499f-b16c-1109d3dfcfe7)
